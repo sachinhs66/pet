@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(255, 81, 0);
+    margin: 0;
+    padding: 0;
+}
+.cover{
+    position: absolute;
+    font-size: 49px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    top: 30%;
+    left: 20%;
+    color: blue;
+
+}
